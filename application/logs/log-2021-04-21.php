@@ -1,0 +1,64 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-21 02:10:22 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:21:33 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:32:06 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:33:34 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:33:34 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2021-04-21 02:33:35 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:33:36 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 02:33:36 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 03:19:04 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 03:24:08 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 03:35:22 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www/html/application/views/templates/redlabel/_parts/header.php 94
+ERROR - 2021-04-21 04:09:11 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 04:09:24 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 04:45:29 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 05:23:57 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 05:35:04 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www/html/application/views/templates/redlabel/_parts/header.php 94
+ERROR - 2021-04-21 05:38:19 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 05:41:04 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 05:52:13 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 06:51:44 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 07:05:53 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 07:56:33 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 08:30:51 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 08:34:44 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 08:49:48 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 08:58:10 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 09:27:44 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:04:15 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:04:15 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:18:46 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:25:42 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:15 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2021-04-21 10:29:15 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:18 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:18 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:19 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2021-04-21 10:29:21 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:23 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:29:27 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 10:31:34 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 11:02:49 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 11:49:16 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 12:21:17 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 13:10:41 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 13:12:02 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 13:27:15 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 14:44:55 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 15:27:44 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 15:29:01 --> Severity: Notice --> Undefined index: HTTP_HOST /var/www/html/application/views/templates/redlabel/_parts/header.php 94
+ERROR - 2021-04-21 15:32:07 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 15:43:25 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:21:28 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:21:29 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:21:29 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:26:46 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:26:47 --> 404 Page Not Found: ../modules/vendor/controllers//index
+ERROR - 2021-04-21 16:26:48 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:26:48 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:26:48 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 16:37:44 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 17:23:10 --> 404 Page Not Found: /index
+ERROR - 2021-04-21 17:26:36 --> 404 Page Not Found: /index
